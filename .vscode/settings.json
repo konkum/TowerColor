@@ -1,0 +1,92 @@
+{
+    "files.exclude": {
+        "**/.DS_Store": true,
+        "**/*.git": true,
+        "**/*.gitignore": true,
+        "**/*.gitmodules": true,
+        "**/*.booproj": true,
+        "**/*.pidb": true,
+        "**/*.suo": true,
+        "**/*.user": true,
+        "**/*.userprefs": true,
+        "**/*.dll": true,
+        "**/*.exe": true,
+        "**/*.pdf": true,
+        "**/*.mid": true,
+        "**/*.midi": true,
+        "**/*.wav": true,
+        "**/*.gif": true,
+        "**/*.ico": true,
+        "**/*.jpg": true,
+        "**/*.jpeg": true,
+        "**/*.psd": true,
+        "**/*.tif": true,
+        "**/*.tiff": true,
+        "**/*.3ds": true,
+        "**/*.3DS": true,
+        "**/*.lxo": true,
+        "**/*.LXO": true,
+        "**/*.ma": true,
+        "**/*.MA": true,
+        "**/*.obj": true,
+        "**/*.OBJ": true,
+        "**/*.asset": true,
+        "**/*.flare": true,
+        ".vs": true,
+        "*.csproj": true,
+        "*.orig": true,
+        "*.user": true,
+        "*.userprefs": true,
+        "**/.classpath": true,
+        "**/.factorypath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/*.*.meta": true,
+        "**/*.cubemap": true,
+        "**/*.fbx": true,
+        "**/*.FBX": true,
+        "**/*.mat": true,
+        "**/*.meta": true,
+        "**/*.png": true,
+        "**/*.prefab": true,
+        "**/*.sln": true,
+        "**/*.tga": true,
+        "**/*.unity": true,
+        "**/*.unityproj": true,
+        "**/*.vsconfig": true,
+        "**/*Packages": true,
+        "**/Library": true,
+        "**/Plugins": true,
+        "**/ProjectSettings": true,
+        "**/Resources": true,
+        "**/Temp": true,
+        "Assembly-C*.*": true,
+        "Logs": true,
+        "obj": true,
+        "UserSettings": true,
+        "build/": true,
+        "Build/": true,
+        "**/*.controller": true,
+        "**/*.exr": true,
+        "**/*.ttf": true,
+        "**/*.flac": true
+    },
+    "editor.tokenColorCustomizations": {
+        "[Default Dark+]": {
+            "textMateRules": [
+                {
+                    "scope": "variable.parameter",
+                    "settings": {
+                        "foreground": "#00d9ff7a"
+                    }
+                },
+                {
+                    "scope": "entity.name.variable.local",
+                    "settings": {
+                        "foreground": "#e4e4e4",
+                    }
+                }
+            ]
+        }
+    }
+}
